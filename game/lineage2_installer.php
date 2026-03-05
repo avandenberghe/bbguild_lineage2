@@ -132,7 +132,7 @@ class lineage2_installer extends abstract_game_install
 		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 55, 'class_armor_type' => 'ROBE', 'class_min_level' => 20, 'class_max_level' => 40, 'colorcode' => '#32CD32', 'imagename' => 'lineage2_soracle');
 		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 56, 'class_armor_type' => 'HEAVY', 'class_min_level' => 40, 'class_max_level' => 76, 'colorcode' => '#CC9933', 'imagename' => 'lineage2_shillienknight');
 		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 57, 'class_armor_type' => 'HEAVY', 'class_min_level' => 40, 'class_max_level' => 76, 'colorcode' => '#FF0044', 'imagename' => 'lineage2_bladedancer');
-		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 58, 'class_armor_type' => 'LEATHER', 'class_min_level' => 40, 'class_max_level' => 76, 'colorcode' => '#FF0044', 'imagename' => 'lineage2_abyssswalker');
+		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 58, 'class_armor_type' => 'LEATHER', 'class_min_level' => 40, 'class_max_level' => 76, 'colorcode' => '#FF0044', 'imagename' => 'lineage2_abysswalker');
 		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 59, 'class_armor_type' => 'LEATHER', 'class_min_level' => 40, 'class_max_level' => 76, 'colorcode' => '#CC00BB', 'imagename' => 'lineage2_phantomranger');
 		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 60, 'class_armor_type' => 'ROBE', 'class_min_level' => 40, 'class_max_level' => 76, 'colorcode' => '#CC00BB', 'imagename' => 'lineage2_spellhowler');
 		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 61, 'class_armor_type' => 'ROBE', 'class_min_level' => 40, 'class_max_level' => 76, 'colorcode' => '#CC00BB', 'imagename' => 'lineage2_phantomsummoner');
@@ -154,7 +154,7 @@ class lineage2_installer extends abstract_game_install
 		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 75, 'class_armor_type' => 'HEAVY', 'class_min_level' => 40, 'class_max_level' => 76, 'colorcode' => '#FF0044', 'imagename' => 'lineage2_destroyer');
 		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 76, 'class_armor_type' => 'LEATHER', 'class_min_level' => 40, 'class_max_level' => 76, 'colorcode' => '#FF0044', 'imagename' => 'lineage2_tyrant');
 		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 77, 'class_armor_type' => 'ROBE', 'class_min_level' => 40, 'class_max_level' => 76, 'colorcode' => '#CC9933', 'imagename' => 'lineage2_overlord');
-		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 78, 'class_armor_type' => 'ROBE', 'class_min_level' => 40, 'class_max_level' => 76, 'colorcode' => '#FF0044', 'imagename' => 'lineage2_warcyer');
+		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 78, 'class_armor_type' => 'ROBE', 'class_min_level' => 40, 'class_max_level' => 76, 'colorcode' => '#FF0044', 'imagename' => 'lineage2_warcryer');
 		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 79, 'class_armor_type' => 'HEAVY', 'class_min_level' => 76, 'class_max_level' => 85, 'colorcode' => '#CC9933', 'imagename' => 'lineage2_titan');
 		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 80, 'class_armor_type' => 'LEATHER', 'class_min_level' => 76, 'class_max_level' => 85, 'colorcode' => '#CC00BB', 'imagename' => 'lineage2_grandkhavatari');
 		$sql_ary[] = array('game_id' => $this->game_id, 'class_id' => 81, 'class_armor_type' => 'ROBE', 'class_min_level' => 76, 'class_max_level' => 85, 'colorcode' => '#CC00BB', 'imagename' => 'lineage2_dominator');
